@@ -1,0 +1,3 @@
+﻿  Human.cpp
+C:\Users\student.ITSTEP\source\repos\07.06CLassWork\07.06CLassWork\Human.cpp(10): warning C4717: operator<<: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+C:\Users\student.ITSTEP\source\repos\07.06CLassWork\07.06CLassWork\Human.cpp(10): error C4716: operator<<: должна возвращать значение
